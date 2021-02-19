@@ -1,0 +1,8 @@
+.snakemake
+*~
+*.fa
+*.fq.gz
+*.fastq.gz
+*.annot
+*.quast
+*.out
